@@ -5,3 +5,7 @@ Its myhh First Git project, Hope it will hav some fun ^_^
 - Communication 
 - Problem Solving
 - Basic Git
+
+  ## Projects
+  - Google : A website to web
+  - Ai Bot : A fully skilled ai can even bring human kind to extention 
